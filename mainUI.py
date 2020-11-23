@@ -734,7 +734,7 @@ class Ui_QtWidgetsApplication1Class(object):
         self.label_16.setText(_translate("QtWidgetsApplication1Class", "火焰高度(m)"))
         self.lineEdit_5.setText(_translate("QtWidgetsApplication1Class", "添加火焰高度"))
         self.lineEdit_6.setText(_translate("QtWidgetsApplication1Class", "添加火焰直径"))
-        self.label_61.setText(_translate("QtWidgetsApplication1Class", "观测点高度"))
+        self.label_61.setText(_translate("QtWidgetsApplication1Class", "观测点水平距离"))
         self.pushButton_33.setText(_translate("QtWidgetsApplication1Class", "提交"))
         self.tabWidget.setTabText(self.tabWidget.indexOf(self.tab_4), _translate("QtWidgetsApplication1Class", "垂直辐射热流计算"))
         self.pushButton_21.setText(_translate("QtWidgetsApplication1Class", "沿火焰倾斜方向热流密度"))
